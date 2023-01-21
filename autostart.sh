@@ -1,5 +1,4 @@
 #!/bin/bash
-#
 #Startup Apps
 
 picom -b &
